@@ -39,6 +39,14 @@ img{
     height: auto;
 }
 
+nav{
+    justify-content: center;
+}
+
+ul{
+    display: table-row;
+}
+
 /* Medium */
 @media screen and (min-width: 700px) {
     main{
