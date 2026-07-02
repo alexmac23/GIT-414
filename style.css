@@ -27,3 +27,35 @@ div{
     width: 40%;
     height: auto;
 }
+
+
+
+@media screen and (min-width: 700px) {
+    main{
+        flex-direction: column;
+    }
+
+    div{
+        width: 100%;
+    }
+}
+
+@media screen and (min-width: 1024px) {
+    main{
+        flex-direction: column;
+    }
+
+    div{
+        width: 100%;
+    }
+}
+
+@media screen and (min-width: 1400px) {
+    main{
+        flex-direction: column;
+    }
+
+    div{
+        width: 100%;
+    }
+}
